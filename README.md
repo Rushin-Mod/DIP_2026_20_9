@@ -21,3 +21,9 @@ Our method of analyzing and detecting tumors is done in the following steps:
 ## Dataset
 For our project, we will be using the publicly available dataset provided by OpenNeuro: [Retrospective Task/Rest fMRI Data from Tumor Patients
 ](https://openneuro.org/datasets/ds005003/versions/2.0.0)
+
+## Team Members
+- [**Jash Odedara**](https://github.com/JashOd30) (Team Leader)
+- [**Rushin Modi**](https://github.com/Rushin-Mod)
+- [**Kritee Shah**](https://github.com/kriteeshah723-ui)
+- [**Kush Kelaiya**](https://github.com/Kush-Kelaiya22)
